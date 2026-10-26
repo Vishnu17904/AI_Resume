@@ -221,8 +221,7 @@ npm run dev
 ---
 
 ## 👨‍💻 Author
-Built with ❤️ by **Ujjwal Goyal**
-- GitHub: [@Ujjwal-GoyaL019](https://github.com/Ujjwal-GoyaL019)
+Built with ❤️ by **Vishnu**
 
 ---
 
